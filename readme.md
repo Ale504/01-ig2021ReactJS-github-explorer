@@ -1,22 +1,23 @@
-### Projeto Github Explorer
+### Project Github Explorer
 
-Projeto com origem na Bootcamp Ignite2021-Chapter1 promovido pela RocketSeat.
+Project from Bootcamp Ignite2021-Chapter1 promoted by RocketSeat.
 
-Este projeto foi criado com intuito de criar uma interface que lista repositórios hospedados no Github, utilizando as seguintes tecnologias:
+This project was created with the intention of creating an interface that lists repositories hosted on Github, using the following technologies:
 
 - html
 - css/sass
 - javascript/typescript
 - reactJS
-- babel/webpack(manual config)
+- babel/webpack (manual configuration)
 - state management with useState
-- life cycle - useEffect
+- lifecycle - useEffect
 - Fetch external data
-
-
 ##### Start Project
 
 ```bash
-  yarn install
-  yarn dev
+yarn
+```
+##### Run
+```bash
+yarn dev
 ```
