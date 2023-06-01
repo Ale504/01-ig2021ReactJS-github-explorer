@@ -13,9 +13,8 @@ This project was created with the intention of creating an interface that lists 
 - lifecycle - useEffect
 - Fetch external data
 ##### Start Project
-
 ```bash
-yarn
+yarn install
 ```
 ##### Run
 ```bash
